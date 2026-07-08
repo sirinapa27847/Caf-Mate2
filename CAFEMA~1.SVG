@@ -1,0 +1,16 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <path d="M40 96 h58 v40 a29 29 0 0 1 -29 29 a29 29 0 0 1 -29 -29 Z" fill="#C1502E"/>
+  <path d="M98 106 q22 -4 22 16 q0 20 -22 17" fill="none" stroke="#C1502E" stroke-width="8" stroke-linecap="round"/>
+  <path d="M118 178 L138 82 M158 178 L138 82 M126 150 h24" stroke="#3A2E22" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="112" y="46" width="60" height="46" rx="4" fill="#FFFCF5" stroke="#3A2E22" stroke-width="6"/>
+  <circle cx="142" cy="60" r="6" fill="#D9A441"/>
+  <circle cx="134" cy="66" r="6" fill="#E8B196"/>
+  <circle cx="150" cy="66" r="6" fill="#E8B196"/>
+  <circle cx="136" cy="76" r="6" fill="#E8B196"/>
+  <circle cx="148" cy="76" r="6" fill="#E8B196"/>
+  <circle cx="142" cy="70" r="5" fill="#8F3A20"/>
+  <path d="M142 76 v10" stroke="#54654A" stroke-width="4" stroke-linecap="round"/>
+  <path d="M20 60 q14 -18 30 -6 q-14 18 -30 6 Z" fill="#54654A"/>
+  <path d="M176 40 L188 28" stroke="#3A2E22" stroke-width="6" stroke-linecap="round"/>
+  <path d="M188 28 q6 -6 12 0 q-2 8 -10 10 Z" fill="#D9A441"/>
+</svg>
